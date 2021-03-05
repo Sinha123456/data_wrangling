@@ -32,21 +32,34 @@ request library https://pypi.org/project/requests/2.7.0/
 
 # Recommended models
 import pandas as pd
+
 import numpy as np
+
 import os
+
 import re
 import requests
+
 import tweepy
+
 import datetime
+
 import timeit
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 %matplotlib inline
+
 import requests
 from PIL import Image
+
 from io import BytesIO
+
 from timeit import default_timer as timer
+
 import json
+
 from IPython.display import IFrame
 
 # Installation
